@@ -1,0 +1,21 @@
+10 deset
+11 jedenáct
+12 dvanáct
+13 třináct
+14 čtrnáct
+15 patnáct
+16 šestnáct
+17 sedmnáct
+18 osmnáct
+19 devatenáct
+
+10 deseti
+11 jedenácti
+12 dvanácti
+13 třinácti
+14 čtrnácti
+15 patnácti
+16 šestnácti
+17 sedmnácti
+18 osmnácti
+19 devatenácti

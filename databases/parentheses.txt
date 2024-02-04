@@ -1,0 +1,2 @@
+'(' závorka
+')' konec závorky

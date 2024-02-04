@@ -1,0 +1,17 @@
+20 dvacet
+30 třicet
+40 čtyřicet
+50 padesát
+60 šedesát
+70 sedmdesát
+80 osmdesát
+90 devadesát
+
+20 dvaceti
+30 třiceti
+40 čtyřiceti
+50 padesáti
+60 šedesáti
+70 sedmdesáti
+80 osmdesáti
+90 devadesáti

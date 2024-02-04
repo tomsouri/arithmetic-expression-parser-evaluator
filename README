@@ -1,0 +1,43 @@
+Seminar project for Non-procedural Programming, NPRG005 in Summer semester 2022/23
+on MFF CUNI.
+
+Author: Tomas Sourada, 3rd year on undergraduate studies of Computer Science,
+study field Artificial Intelligence.
+
+Topic: Arithmetic expression parser and evaluator.
+
+Task: Create a Prolog predicate, which takes a string containing an arithmetic
+expression written in words in the Czech language, converts it to its
+number-operator variant and evaluates it.
+
+Supports usual Czech language, input string tokens separated by space, without
+commas. Supports integers written with or without diacritis and usual operators
+'+',  '-', '*', '-' and simple parentheses '(', ')'.
+
+Implemented on SWI-Prolog version 8.4.3 for x86_64-linux.
+Date of implementation: from 2022-09-09 to 2022-09-14.
+
+Example call:
+# Start SWI-prolog:
+> swipl
+# Compile `main.pl`:
+?- [main].
+true.
+# Run the predicate:
+?- evaluateExpressionString("třináct krát tři", Value).
+
+Input string: třináct krát tři
+Expression:   13 * 3
+Result:       39
+
+Value = 39.
+
+# Run the predicate:
+?- evaluateExpressionString("jedna plus dva krát tři minus závorka sedm minus čtyři konec závorky deleno tremi", Value).
+
+Input string: jedna plus dva krát tři minus závorka sedm minus čtyři konec závorky deleno tremi
+Expression:   1 + 2 * 3 - ( 7 - 4 ) / 3
+Result:       6
+
+Value = 6.
+

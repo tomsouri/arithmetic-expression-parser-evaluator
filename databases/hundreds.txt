@@ -1,0 +1,21 @@
+100 sto
+100 stem
+100 jedno sto
+100 jedním stem
+200 dvě sta
+200 dvěma sty
+200 dvě stě
+300 tři sta
+300 třemi sty
+400 čtyři sta
+400 čtyřmi sty
+500 pět set
+500 pěti sty
+600 šest set
+600 šesti sty
+700 sedm set
+700 sedmi sty
+800 osm set
+800 osmi sty
+900 devět set
+900 devíti sty
